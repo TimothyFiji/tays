@@ -8315,3 +8315,30 @@ a > img.fh5co-align-center {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/*Tays Custom Styles*/
+
+
+@media screen and (max-width: 480px){
+    body{
+        padding: 0px 20px;
+    }
+
+    .fh5co-menu-btn{
+        width: 89px !important;
+        margin: auto !important;
+        display: block !important;
+        float: none !important;
+    }
+
+    #fh5co-header .navbar-brand{
+        margin: auto !important;
+        padding: 20px !important;
+        float: none !important;
+    }
+}
+
+body{
+  background: url(../images/bg.png) !important;
+}
