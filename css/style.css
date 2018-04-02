@@ -8317,6 +8317,8 @@ a > img.fh5co-align-center {
 /*# sourceMappingURL=style.css.map */
 
 
+
+
 /*Tays Custom Styles*/
 
 
@@ -8341,4 +8343,30 @@ a > img.fh5co-align-center {
 
 body{
   background: url(../images/bg.png) !important;
+}
+
+#fh5co-offcanvass .fh5co-logo{
+  margin-top: 0px;
+}
+
+#fh5co-offcanvass .fh5co-logo a{
+    float: none;
+    width: 60%;
+    display: block;
+    margin: 0px auto 40px auto;
+}
+
+#fh5co-offcanvass ul li a{
+    width: 65%;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#fh5co-offcanvass .fh5co-lead{
+  text-align: center;
+}
+
+#fh5co-offcanvass p{
+  text-align: center;
 }
