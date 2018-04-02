@@ -1,10 +1,10 @@
 @charset "UTF-8";
 
-@font-face {
+/*@font-face {
   font-family: 'Montharo';
   src: url("../fonts/montharo/OTF/Montharo Regular.otf");
   font-weight: normal;
-}
+}*/
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -8376,7 +8376,7 @@ body{
 #fh5co-offcanvass p{
   text-align: center;
 }
-
+/*
 h1,h2,h3,h4,h5{
   font-family: 'Montharo Regular', sans-serif;
-}
+}*/
